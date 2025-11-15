@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
+/*Para base de datos*/
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
